@@ -6,7 +6,7 @@
 - 🎂 Tenho 16 anos.
 - 📍 Sou de Belo Horizonte MG.
 - ⚡ Curiosidades: Eu gosto de viajar, sair com os meus amigos, jogar Futvolei, jogar futebol e sou cruzeirense.
-- 📫 Escolha uma das opções abaixo e entre em contato 👇 <div>
+- 📫 Escolha uma das opções abaixo e entre em contato. 👇 <div>
 
 
 <a href="https://instagram.com/matibas_tws" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
