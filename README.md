@@ -2,7 +2,7 @@
 ## Meu nome é Matheus e meu apelido é Matibas!
 
 - 🔭 Atualmente estou estagiando na função de desenvolvimento na empresa Mundo Wap Aplicativos para Negocios.
-- 🏫 Atualmente estou estudando e cursando Técnico em Desenvolvimento de Sistemas no Colégio COTEMIG.
+- 🏫 Atualmente estou estudando e cursando em Técnico de Desenvolvimento de Sistemas no Colégio COTEMIG.
 - 🌱 Atualmente estou aprendendo a linguagem de programação PHP.
 - 🎂 Tenho 16 anos.
 - 📍 Sou de Belo Horizonte MG.
