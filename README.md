@@ -1,11 +1,12 @@
 # Olá! Bem-vindo ao meu perfil no Github 👋
 ## Meu nome é Matheus e meu apelido é Matibas!
 
-- 🔭 Atualmente estou estagiando na parte de desenvolvimento na empresa Mundo Wap Aplicativos para Negocios.
+- 🔭 Atualmente estou estagiando na função de desenvolvimento na empresa Mundo Wap Aplicativos para Negocios.
+- 🏫 Atualmente estou estudando e cursando Técnico em Desenvolvimento de Sistemas no Colégio COTEMIG.
 - 🌱 Atualmente estou aprendendo a linguagem de programação PHP.
 - 🎂 Tenho 16 anos.
 - 📍 Sou de Belo Horizonte MG.
-- ⚡ Curiosidades: Eu gosto de viajar, sair com os meus amigos, jogar Futvolei, jogar futebol e sou cruzeirense.
+- ⚡ Curiosidades: Eu gosto de viajar, sair com os meus amigos, jogar Futvolei, jogar futebol e sou Cruzeirense.
 - 📫 Escolha uma das opções abaixo e entre em contato. 👇 <div>
 
 
